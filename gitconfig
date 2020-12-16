@@ -1,0 +1,8 @@
+[user]
+	name = ryanpdx
+	email = rmedick@pdx.edu
+[core]
+	edit = vim
+	editor = vim
+[pull]
+	rebase = false
